@@ -276,12 +276,6 @@ document.addEventListener("DOMContentLoaded", function () {
                     description: "Delivers key metrics on plant water conductivity.",
                     link: "https://app.powerbi.com/groups/me/reports/69c21966-bd2a-4524-813f-f20e733e3977/ReportSection?experience=power-bi",
                     thumbnail: "images/Reports/Conductivity.png"
-                },
-                {
-                    title: "SKU Performance TEST",
-                    description: "Beta version of the SKU Performance report containing upcoming features.",
-                    link: "https://app.powerbi.com/groups/cff6874c-6d2f-44a1-8f5c-560a81a3da50/reports/cc97846a-e295-4dce-8ddd-a67c0224a763/fb00cbde036b102e509d?experience=power-bi",
-                    thumbnail: "images/Reports/SKU Performance.png"
                 }
             ]
         },
